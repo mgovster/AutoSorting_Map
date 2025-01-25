@@ -4,7 +4,6 @@
 
 using namespace std;
 
-//template <class X> bool operator<(const list<X> l1, const list<X> l2) { return size() < l2.size(); }
 
 template <class X> class my_comp_class {
 public:
